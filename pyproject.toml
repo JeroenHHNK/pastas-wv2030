@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pastas-wv2030"
+version = "0.1.0"
+description = "Notebooks and data to run simple Pastas models"
+authors = ["Jeroen van Ruitenbeek"]
+license = "/"
+readme = "README.md"
+packages = [{ include = "pastas_wv2030" }]
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+pastas = "^1.9.0"
+requests = "^2.32.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
