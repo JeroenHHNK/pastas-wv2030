@@ -17,6 +17,9 @@ seaborn = "^0.13.2"
 emcee = "^3.1.6"
 plotly = "^6.1.2"
 nbformat = "^5.10.4"
+streamlit = "^1.46.1"
+pandas = "*"
+numpy = "*"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
