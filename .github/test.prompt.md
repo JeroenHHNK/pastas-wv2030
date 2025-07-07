@@ -1,0 +1,2 @@
+Can you modify the code in the recent edits to improve readability and maintainability? Please ensure that the code is well-structured and follows best practices for Python coding.
+[]: # File: Monte_Carlo.ipynb
