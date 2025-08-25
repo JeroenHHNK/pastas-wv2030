@@ -1,0 +1,1486 @@
+model,Test,Checks,Statistic,P-value,Reject H0 ($\alpha$=0.05)
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Exponential,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Exponential,D'Agostino,Normality,328.80,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Exponential,Runs test,Autocorr.,-6.25,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Exponential,Stoffer-Toloi,Autocorr.,39.61,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Gamma,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Gamma,D'Agostino,Normality,311.76,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Gamma,Runs test,Autocorr.,-7.22,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Gamma,Stoffer-Toloi,Autocorr.,27.54,0.02,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_DoubleExponential,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_DoubleExponential,D'Agostino,Normality,332.67,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_DoubleExponential,Runs test,Autocorr.,-7.15,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_DoubleExponential,Stoffer-Toloi,Autocorr.,37.67,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Hantush,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Hantush,D'Agostino,Normality,545.11,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Hantush,Runs test,Autocorr.,-9.32,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_Hantush,Stoffer-Toloi,Autocorr.,44.14,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_FourParam,Shapiroo,Normality,0.66,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_FourParam,D'Agostino,Normality,545.82,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_FourParam,Runs test,Autocorr.,-10.36,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Linear_FourParam,Stoffer-Toloi,Autocorr.,44.29,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Exponential,Shapiroo,Normality,0.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Exponential,D'Agostino,Normality,545.08,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Exponential,Runs test,Autocorr.,-8.87,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Exponential,Stoffer-Toloi,Autocorr.,25.61,0.03,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Gamma,Shapiroo,Normality,0.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Gamma,D'Agostino,Normality,526.27,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Gamma,Runs test,Autocorr.,-7.30,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Gamma,Stoffer-Toloi,Autocorr.,31.62,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_DoubleExponential,Shapiroo,Normality,0.72,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_DoubleExponential,D'Agostino,Normality,484.22,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_DoubleExponential,Runs test,Autocorr.,-9.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_DoubleExponential,Stoffer-Toloi,Autocorr.,31.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Hantush,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Hantush,D'Agostino,Normality,508.29,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Hantush,Runs test,Autocorr.,-6.17,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_Hantush,Stoffer-Toloi,Autocorr.,27.22,0.02,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_FourParam,Shapiroo,Normality,0.66,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_FourParam,D'Agostino,Normality,543.42,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_FourParam,Runs test,Autocorr.,-10.22,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_FlexModel_FourParam,Stoffer-Toloi,Autocorr.,44.66,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Exponential,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Exponential,D'Agostino,Normality,507.66,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Exponential,Runs test,Autocorr.,-6.40,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Exponential,Stoffer-Toloi,Autocorr.,24.26,0.04,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Gamma,Shapiroo,Normality,0.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Gamma,D'Agostino,Normality,505.23,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Gamma,Runs test,Autocorr.,-6.62,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Gamma,Stoffer-Toloi,Autocorr.,27.83,0.01,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_DoubleExponential,Shapiroo,Normality,0.68,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_DoubleExponential,D'Agostino,Normality,520.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_DoubleExponential,Runs test,Autocorr.,-7.75,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_DoubleExponential,Stoffer-Toloi,Autocorr.,23.63,0.05,False
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Hantush,Shapiroo,Normality,0.69,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Hantush,D'Agostino,Normality,507.34,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Hantush,Runs test,Autocorr.,-6.62,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_Hantush,Stoffer-Toloi,Autocorr.,28.70,0.01,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_FourParam,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_FourParam,D'Agostino,Normality,531.56,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_FourParam,Runs test,Autocorr.,-8.72,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Berendrecht_FourParam,Stoffer-Toloi,Autocorr.,43.98,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Exponential,Shapiroo,Normality,0.83,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Exponential,D'Agostino,Normality,349.28,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Exponential,Runs test,Autocorr.,-6.62,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Exponential,Stoffer-Toloi,Autocorr.,36.26,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Gamma,Shapiroo,Normality,0.83,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Gamma,D'Agostino,Normality,346.89,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Gamma,Runs test,Autocorr.,-8.49,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Gamma,Stoffer-Toloi,Autocorr.,28.28,0.01,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_DoubleExponential,Shapiroo,Normality,0.83,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_DoubleExponential,D'Agostino,Normality,348.96,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_DoubleExponential,Runs test,Autocorr.,-6.62,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_DoubleExponential,Stoffer-Toloi,Autocorr.,36.25,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Hantush,Shapiroo,Normality,0.66,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Hantush,D'Agostino,Normality,541.09,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Hantush,Runs test,Autocorr.,-10.96,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_Hantush,Stoffer-Toloi,Autocorr.,43.07,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_FourParam,Shapiroo,Normality,0.66,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_FourParam,D'Agostino,Normality,538.86,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_FourParam,Runs test,Autocorr.,-10.81,0.00,True
+BE0049_00_BIKR_GMW_PB1_F-227_Direct_FourParam,Stoffer-Toloi,Autocorr.,43.31,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Exponential,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Exponential,D'Agostino,Normality,747.30,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Exponential,Runs test,Autocorr.,-4.91,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Exponential,Stoffer-Toloi,Autocorr.,161.76,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Gamma,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Gamma,D'Agostino,Normality,678.93,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Gamma,Runs test,Autocorr.,-8.66,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Gamma,Stoffer-Toloi,Autocorr.,161.19,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_DoubleExponential,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_DoubleExponential,D'Agostino,Normality,744.91,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_DoubleExponential,Runs test,Autocorr.,-4.76,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_DoubleExponential,Stoffer-Toloi,Autocorr.,161.80,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Hantush,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Hantush,D'Agostino,Normality,754.76,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Hantush,Runs test,Autocorr.,-6.71,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_Hantush,Stoffer-Toloi,Autocorr.,163.84,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_FourParam,Shapiroo,Normality,0.17,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_FourParam,D'Agostino,Normality,369.88,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_FourParam,Runs test,Autocorr.,-13.45,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Linear_FourParam,Stoffer-Toloi,Autocorr.,136.81,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Exponential,Shapiroo,Normality,0.15,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Exponential,D'Agostino,Normality,476.64,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Exponential,Runs test,Autocorr.,-8.36,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Exponential,Stoffer-Toloi,Autocorr.,168.42,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Gamma,Shapiroo,Normality,0.15,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Gamma,D'Agostino,Normality,680.18,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Gamma,Runs test,Autocorr.,-7.91,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Gamma,Stoffer-Toloi,Autocorr.,200.27,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_DoubleExponential,Shapiroo,Normality,0.14,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_DoubleExponential,D'Agostino,Normality,396.34,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_DoubleExponential,Runs test,Autocorr.,-9.86,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_DoubleExponential,Stoffer-Toloi,Autocorr.,164.17,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Hantush,Shapiroo,Normality,0.16,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Hantush,D'Agostino,Normality,583.83,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Hantush,Runs test,Autocorr.,-10.46,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_Hantush,Stoffer-Toloi,Autocorr.,197.42,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_FourParam,Shapiroo,Normality,0.15,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_FourParam,D'Agostino,Normality,676.77,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_FourParam,Runs test,Autocorr.,-7.91,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_FlexModel_FourParam,Stoffer-Toloi,Autocorr.,200.04,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Exponential,Shapiroo,Normality,0.19,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Exponential,D'Agostino,Normality,619.10,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Exponential,Runs test,Autocorr.,-11.21,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Exponential,Stoffer-Toloi,Autocorr.,135.76,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Gamma,Shapiroo,Normality,0.16,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Gamma,D'Agostino,Normality,519.82,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Gamma,Runs test,Autocorr.,-12.25,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Gamma,Stoffer-Toloi,Autocorr.,195.93,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_DoubleExponential,Shapiroo,Normality,0.20,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_DoubleExponential,D'Agostino,Normality,623.20,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_DoubleExponential,Runs test,Autocorr.,-11.35,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_DoubleExponential,Stoffer-Toloi,Autocorr.,139.23,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Hantush,Shapiroo,Normality,0.16,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Hantush,D'Agostino,Normality,591.53,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Hantush,Runs test,Autocorr.,-10.61,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_Hantush,Stoffer-Toloi,Autocorr.,195.07,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_FourParam,Shapiroo,Normality,0.15,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_FourParam,D'Agostino,Normality,646.57,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_FourParam,Runs test,Autocorr.,-10.01,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Berendrecht_FourParam,Stoffer-Toloi,Autocorr.,193.93,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Exponential,Shapiroo,Normality,0.14,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Exponential,D'Agostino,Normality,671.11,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Exponential,Runs test,Autocorr.,-5.28,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Exponential,Stoffer-Toloi,Autocorr.,160.36,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Gamma,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Gamma,D'Agostino,Normality,631.11,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Gamma,Runs test,Autocorr.,-8.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Gamma,Stoffer-Toloi,Autocorr.,160.30,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_DoubleExponential,Shapiroo,Normality,0.14,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_DoubleExponential,D'Agostino,Normality,624.86,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_DoubleExponential,Runs test,Autocorr.,-5.58,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_DoubleExponential,Stoffer-Toloi,Autocorr.,159.54,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Hantush,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Hantush,D'Agostino,Normality,693.69,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Hantush,Runs test,Autocorr.,-7.98,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_Hantush,Stoffer-Toloi,Autocorr.,163.15,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_FourParam,Shapiroo,Normality,0.13,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_FourParam,D'Agostino,Normality,678.10,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_FourParam,Runs test,Autocorr.,-8.28,0.00,True
+BE0049_00_BIT_GMW_PB1_F-550_Direct_FourParam,Stoffer-Toloi,Autocorr.,162.43,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Exponential,Shapiroo,Normality,0.59,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Exponential,D'Agostino,Normality,885.40,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Exponential,Runs test,Autocorr.,-3.98,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Exponential,Ljung-Box,Autocorr.,16.68,0.27,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Exponential,Durbin-Watson,Autocorr.,1.86,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Gamma,Shapiroo,Normality,0.55,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Gamma,D'Agostino,Normality,934.64,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Gamma,Runs test,Autocorr.,-5.05,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Gamma,Ljung-Box,Autocorr.,17.88,0.21,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Gamma,Durbin-Watson,Autocorr.,1.86,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_DoubleExponential,Shapiroo,Normality,0.60,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_DoubleExponential,D'Agostino,Normality,838.38,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_DoubleExponential,Runs test,Autocorr.,-3.98,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_DoubleExponential,Ljung-Box,Autocorr.,17.27,0.24,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Hantush,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Hantush,D'Agostino,Normality,741.88,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Hantush,Runs test,Autocorr.,-9.50,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Hantush,Ljung-Box,Autocorr.,50.80,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_Hantush,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Linear_FourParam,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_FourParam,D'Agostino,Normality,728.28,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_FourParam,Runs test,Autocorr.,-9.70,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_FourParam,Ljung-Box,Autocorr.,51.23,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Linear_FourParam,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Exponential,Shapiroo,Normality,0.64,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Exponential,D'Agostino,Normality,677.63,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Exponential,Runs test,Autocorr.,-7.21,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Exponential,Ljung-Box,Autocorr.,33.05,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.71,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Gamma,Shapiroo,Normality,0.61,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Gamma,D'Agostino,Normality,817.80,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Gamma,Runs test,Autocorr.,-5.32,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Gamma,Ljung-Box,Autocorr.,20.88,0.10,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.88,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_DoubleExponential,Shapiroo,Normality,0.61,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_DoubleExponential,D'Agostino,Normality,822.08,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_DoubleExponential,Runs test,Autocorr.,-5.26,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,19.58,0.14,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Hantush,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Hantush,D'Agostino,Normality,750.19,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Hantush,Runs test,Autocorr.,-9.10,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Hantush,Ljung-Box,Autocorr.,50.45,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_FourParam,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_FourParam,D'Agostino,Normality,715.41,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_FourParam,Runs test,Autocorr.,-9.64,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_FourParam,Ljung-Box,Autocorr.,50.51,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.62,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Exponential,Shapiroo,Normality,0.64,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Exponential,D'Agostino,Normality,787.93,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Exponential,Runs test,Autocorr.,-9.16,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Exponential,Ljung-Box,Autocorr.,34.39,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.70,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Gamma,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Gamma,D'Agostino,Normality,728.57,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Gamma,Runs test,Autocorr.,-9.57,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Gamma,Ljung-Box,Autocorr.,50.73,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.62,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_DoubleExponential,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_DoubleExponential,D'Agostino,Normality,652.26,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_DoubleExponential,Runs test,Autocorr.,-9.03,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,28.15,0.01,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.76,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Hantush,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Hantush,D'Agostino,Normality,749.52,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Hantush,Runs test,Autocorr.,-9.23,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Hantush,Ljung-Box,Autocorr.,50.36,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_FourParam,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_FourParam,D'Agostino,Normality,720.70,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_FourParam,Runs test,Autocorr.,-9.84,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_FourParam,Ljung-Box,Autocorr.,49.90,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.62,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Exponential,Shapiroo,Normality,0.60,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Exponential,D'Agostino,Normality,866.23,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Exponential,Runs test,Autocorr.,-4.45,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Exponential,Ljung-Box,Autocorr.,17.74,0.22,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Exponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Gamma,Shapiroo,Normality,0.57,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Gamma,D'Agostino,Normality,903.11,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Gamma,Runs test,Autocorr.,-5.59,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Gamma,Ljung-Box,Autocorr.,20.37,0.12,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Gamma,Durbin-Watson,Autocorr.,1.84,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_DoubleExponential,Shapiroo,Normality,0.61,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_DoubleExponential,D'Agostino,Normality,833.87,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_DoubleExponential,Runs test,Autocorr.,-4.51,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_DoubleExponential,Ljung-Box,Autocorr.,18.02,0.21,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.84,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Hantush,Shapiroo,Normality,0.66,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Hantush,D'Agostino,Normality,757.87,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Hantush,Runs test,Autocorr.,-8.69,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Hantush,Ljung-Box,Autocorr.,50.14,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_Hantush,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0049_00_BIT_GMW_PB2_F-930_Direct_FourParam,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_FourParam,D'Agostino,Normality,731.45,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_FourParam,Runs test,Autocorr.,-9.50,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_FourParam,Ljung-Box,Autocorr.,50.92,0.00,True
+BE0049_00_BIT_GMW_PB2_F-930_Direct_FourParam,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Exponential,Shapiroo,Normality,0.89,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Exponential,D'Agostino,Normality,228.59,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Exponential,Runs test,Autocorr.,-3.87,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Exponential,Stoffer-Toloi,Autocorr.,71.98,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Gamma,Shapiroo,Normality,0.90,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Gamma,D'Agostino,Normality,217.89,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Gamma,Runs test,Autocorr.,-4.71,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Gamma,Stoffer-Toloi,Autocorr.,64.48,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_DoubleExponential,Shapiroo,Normality,0.90,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_DoubleExponential,D'Agostino,Normality,241.45,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_DoubleExponential,Runs test,Autocorr.,-5.13,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_DoubleExponential,Stoffer-Toloi,Autocorr.,68.11,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Hantush,Shapiroo,Normality,0.81,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Hantush,D'Agostino,Normality,409.66,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Hantush,Runs test,Autocorr.,-5.13,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_Hantush,Stoffer-Toloi,Autocorr.,47.17,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_FourParam,Shapiroo,Normality,0.81,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_FourParam,D'Agostino,Normality,412.71,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_FourParam,Runs test,Autocorr.,-6.38,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Linear_FourParam,Stoffer-Toloi,Autocorr.,47.05,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Exponential,Shapiroo,Normality,0.85,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Exponential,D'Agostino,Normality,329.95,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Exponential,Runs test,Autocorr.,-6.94,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Exponential,Stoffer-Toloi,Autocorr.,58.35,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Gamma,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Gamma,D'Agostino,Normality,402.88,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Gamma,Runs test,Autocorr.,-6.94,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Gamma,Stoffer-Toloi,Autocorr.,49.24,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_DoubleExponential,Shapiroo,Normality,0.84,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_DoubleExponential,D'Agostino,Normality,346.62,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_DoubleExponential,Runs test,Autocorr.,-6.38,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_DoubleExponential,Stoffer-Toloi,Autocorr.,56.60,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Hantush,Shapiroo,Normality,0.81,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Hantush,D'Agostino,Normality,411.99,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Hantush,Runs test,Autocorr.,-6.10,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_Hantush,Stoffer-Toloi,Autocorr.,46.60,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_FourParam,Shapiroo,Normality,0.81,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_FourParam,D'Agostino,Normality,412.48,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_FourParam,Runs test,Autocorr.,-5.13,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_FlexModel_FourParam,Stoffer-Toloi,Autocorr.,47.39,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Exponential,Shapiroo,Normality,0.84,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Exponential,D'Agostino,Normality,356.12,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Exponential,Runs test,Autocorr.,-6.66,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Exponential,Stoffer-Toloi,Autocorr.,55.91,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Gamma,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Gamma,D'Agostino,Normality,410.16,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Gamma,Runs test,Autocorr.,-5.68,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Gamma,Stoffer-Toloi,Autocorr.,47.09,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_DoubleExponential,Shapiroo,Normality,0.83,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_DoubleExponential,D'Agostino,Normality,375.38,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_DoubleExponential,Runs test,Autocorr.,-6.59,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_DoubleExponential,Stoffer-Toloi,Autocorr.,54.31,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Hantush,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Hantush,D'Agostino,Normality,409.82,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Hantush,Runs test,Autocorr.,-6.10,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_Hantush,Stoffer-Toloi,Autocorr.,46.57,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_FourParam,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_FourParam,D'Agostino,Normality,407.64,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_FourParam,Runs test,Autocorr.,-5.54,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Berendrecht_FourParam,Stoffer-Toloi,Autocorr.,47.19,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Exponential,Shapiroo,Normality,0.89,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Exponential,D'Agostino,Normality,236.29,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Exponential,Runs test,Autocorr.,-4.01,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Exponential,Stoffer-Toloi,Autocorr.,67.91,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Gamma,Shapiroo,Normality,0.90,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Gamma,D'Agostino,Normality,227.82,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Gamma,Runs test,Autocorr.,-5.13,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Gamma,Stoffer-Toloi,Autocorr.,61.33,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_DoubleExponential,Shapiroo,Normality,0.90,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_DoubleExponential,D'Agostino,Normality,236.99,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_DoubleExponential,Runs test,Autocorr.,-4.43,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_DoubleExponential,Stoffer-Toloi,Autocorr.,65.37,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Hantush,Shapiroo,Normality,0.81,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Hantush,D'Agostino,Normality,411.52,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Hantush,Runs test,Autocorr.,-4.43,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_Hantush,Stoffer-Toloi,Autocorr.,47.36,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_FourParam,Shapiroo,Normality,0.90,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_FourParam,D'Agostino,Normality,226.64,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_FourParam,Runs test,Autocorr.,-5.27,0.00,True
+BE0049_00_BUKR_GMW_PB1_F-229_Direct_FourParam,Stoffer-Toloi,Autocorr.,61.13,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Exponential,Shapiroo,Normality,0.81,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Exponential,D'Agostino,Normality,394.28,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Exponential,Runs test,Autocorr.,-6.87,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Exponential,Ljung-Box,Autocorr.,48.99,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Exponential,Durbin-Watson,Autocorr.,2.03,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Gamma,Shapiroo,Normality,0.80,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Gamma,D'Agostino,Normality,397.42,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Gamma,Runs test,Autocorr.,-8.62,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Gamma,Ljung-Box,Autocorr.,32.86,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Gamma,Durbin-Watson,Autocorr.,2.01,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_DoubleExponential,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_DoubleExponential,D'Agostino,Normality,395.13,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_DoubleExponential,Runs test,Autocorr.,-7.08,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_DoubleExponential,Ljung-Box,Autocorr.,48.58,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_DoubleExponential,Durbin-Watson,Autocorr.,2.02,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Hantush,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Hantush,D'Agostino,Normality,678.67,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Hantush,Runs test,Autocorr.,-12.26,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Hantush,Ljung-Box,Autocorr.,74.81,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_Hantush,Durbin-Watson,Autocorr.,1.66,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_FourParam,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_FourParam,D'Agostino,Normality,677.10,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_FourParam,Runs test,Autocorr.,-11.86,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_FourParam,Ljung-Box,Autocorr.,76.15,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Linear_FourParam,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Exponential,Shapiroo,Normality,0.68,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Exponential,D'Agostino,Normality,645.03,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Exponential,Runs test,Autocorr.,-12.13,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Exponential,Ljung-Box,Autocorr.,45.36,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.98,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Gamma,Shapiroo,Normality,0.68,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Gamma,D'Agostino,Normality,657.59,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Gamma,Runs test,Autocorr.,-9.57,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Gamma,Ljung-Box,Autocorr.,38.41,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Gamma,Durbin-Watson,Autocorr.,2.04,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_DoubleExponential,Shapiroo,Normality,0.66,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_DoubleExponential,D'Agostino,Normality,653.82,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_DoubleExponential,Runs test,Autocorr.,-9.70,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,40.35,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,2.08,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Hantush,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Hantush,D'Agostino,Normality,675.01,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Hantush,Runs test,Autocorr.,-11.86,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Hantush,Ljung-Box,Autocorr.,75.24,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_FourParam,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_FourParam,D'Agostino,Normality,675.26,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_FourParam,Runs test,Autocorr.,-11.05,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_FourParam,Ljung-Box,Autocorr.,76.61,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Exponential,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Exponential,D'Agostino,Normality,646.87,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Exponential,Runs test,Autocorr.,-11.05,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Exponential,Ljung-Box,Autocorr.,37.67,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.99,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Gamma,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Gamma,D'Agostino,Normality,649.29,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Gamma,Runs test,Autocorr.,-9.64,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Gamma,Ljung-Box,Autocorr.,44.72,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Gamma,Durbin-Watson,Autocorr.,2.03,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_DoubleExponential,Shapiroo,Normality,0.67,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_DoubleExponential,D'Agostino,Normality,655.69,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_DoubleExponential,Runs test,Autocorr.,-9.10,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,39.21,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,2.05,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Hantush,Shapiroo,Normality,0.64,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Hantush,D'Agostino,Normality,676.56,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Hantush,Runs test,Autocorr.,-11.72,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Hantush,Ljung-Box,Autocorr.,75.15,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_FourParam,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_FourParam,D'Agostino,Normality,669.85,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_FourParam,Runs test,Autocorr.,-10.78,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_FourParam,Ljung-Box,Autocorr.,78.19,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.68,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Exponential,Shapiroo,Normality,0.83,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Exponential,D'Agostino,Normality,420.84,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Exponential,Runs test,Autocorr.,-7.68,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Exponential,Ljung-Box,Autocorr.,51.67,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Exponential,Durbin-Watson,Autocorr.,1.94,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Gamma,Shapiroo,Normality,0.82,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Gamma,D'Agostino,Normality,429.05,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Gamma,Runs test,Autocorr.,-9.03,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Gamma,Ljung-Box,Autocorr.,39.52,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Gamma,Durbin-Watson,Autocorr.,1.91,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_DoubleExponential,Shapiroo,Normality,0.84,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_DoubleExponential,D'Agostino,Normality,421.02,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_DoubleExponential,Runs test,Autocorr.,-7.41,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_DoubleExponential,Ljung-Box,Autocorr.,51.53,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.93,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Hantush,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Hantush,D'Agostino,Normality,677.51,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Hantush,Runs test,Autocorr.,-12.33,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Hantush,Ljung-Box,Autocorr.,75.01,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_Hantush,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_FourParam,Shapiroo,Normality,0.65,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_FourParam,D'Agostino,Normality,676.62,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_FourParam,Runs test,Autocorr.,-11.93,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_FourParam,Ljung-Box,Autocorr.,76.15,0.00,True
+BE0049_00_INST_B_GMW_PB1_F-365_Direct_FourParam,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Exponential,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Exponential,D'Agostino,Normality,1713.19,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Exponential,Runs test,Autocorr.,3.65,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Exponential,Stoffer-Toloi,Autocorr.,0.04,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Gamma,Shapiroo,Normality,0.04,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Gamma,D'Agostino,Normality,1944.82,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Gamma,Runs test,Autocorr.,0.15,0.88,False
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Gamma,Stoffer-Toloi,Autocorr.,0.09,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_DoubleExponential,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_DoubleExponential,D'Agostino,Normality,1750.79,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_DoubleExponential,Runs test,Autocorr.,3.21,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_DoubleExponential,Stoffer-Toloi,Autocorr.,0.04,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Hantush,Shapiroo,Normality,0.06,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Hantush,D'Agostino,Normality,1718.94,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Hantush,Runs test,Autocorr.,-6.86,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_Hantush,Stoffer-Toloi,Autocorr.,0.09,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_FourParam,Shapiroo,Normality,0.08,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_FourParam,D'Agostino,Normality,1907.70,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_FourParam,Runs test,Autocorr.,-3.72,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Linear_FourParam,Stoffer-Toloi,Autocorr.,0.37,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Exponential,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Exponential,D'Agostino,Normality,1708.72,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Exponential,Runs test,Autocorr.,1.17,0.24,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Exponential,Stoffer-Toloi,Autocorr.,0.05,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Gamma,Shapiroo,Normality,0.04,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Gamma,D'Agostino,Normality,1946.45,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Gamma,Runs test,Autocorr.,-0.07,0.94,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Gamma,Stoffer-Toloi,Autocorr.,0.09,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_DoubleExponential,Shapiroo,Normality,0.04,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_DoubleExponential,D'Agostino,Normality,1952.11,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_DoubleExponential,Runs test,Autocorr.,1.90,0.06,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_DoubleExponential,Stoffer-Toloi,Autocorr.,0.11,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Hantush,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Hantush,D'Agostino,Normality,1768.68,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Hantush,Runs test,Autocorr.,0.88,0.38,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_Hantush,Stoffer-Toloi,Autocorr.,0.05,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_FourParam,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_FourParam,D'Agostino,Normality,1946.92,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_FourParam,Runs test,Autocorr.,3.36,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_FlexModel_FourParam,Stoffer-Toloi,Autocorr.,0.11,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Exponential,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Exponential,D'Agostino,Normality,1708.31,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Exponential,Runs test,Autocorr.,1.31,0.19,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Exponential,Stoffer-Toloi,Autocorr.,0.05,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Gamma,Shapiroo,Normality,0.04,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Gamma,D'Agostino,Normality,1953.76,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Gamma,Runs test,Autocorr.,3.21,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Gamma,Stoffer-Toloi,Autocorr.,0.10,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_DoubleExponential,Shapiroo,Normality,0.04,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_DoubleExponential,D'Agostino,Normality,1952.20,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_DoubleExponential,Runs test,Autocorr.,3.36,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_DoubleExponential,Stoffer-Toloi,Autocorr.,0.10,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Hantush,Shapiroo,Normality,0.05,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Hantush,D'Agostino,Normality,1747.43,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Hantush,Runs test,Autocorr.,0.73,0.47,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_Hantush,Stoffer-Toloi,Autocorr.,0.05,1.00,False
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_FourParam,Shapiroo,Normality,0.06,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_FourParam,D'Agostino,Normality,1896.50,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_FourParam,Runs test,Autocorr.,3.94,0.00,True
+BE0280_00_BIKR_GMW_PB1_F-346_Berendrecht_FourParam,Stoffer-Toloi,Autocorr.,0.13,1.00,False
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Exponential,Shapiroo,Normality,0.80,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Exponential,D'Agostino,Normality,311.94,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Exponential,Runs test,Autocorr.,-6.52,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Exponential,Ljung-Box,Autocorr.,42.49,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Exponential,Durbin-Watson,Autocorr.,1.79,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Gamma,Shapiroo,Normality,0.78,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Gamma,D'Agostino,Normality,330.06,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Gamma,Runs test,Autocorr.,-8.06,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Gamma,Ljung-Box,Autocorr.,37.85,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Gamma,Durbin-Watson,Autocorr.,1.76,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Linear_DoubleExponential,Shapiroo,Normality,0.80,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_DoubleExponential,D'Agostino,Normality,310.59,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_DoubleExponential,Runs test,Autocorr.,-6.36,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_DoubleExponential,Ljung-Box,Autocorr.,42.20,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.79,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Hantush,Shapiroo,Normality,0.60,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Hantush,D'Agostino,Normality,593.17,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Hantush,Runs test,Autocorr.,-10.84,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Hantush,Ljung-Box,Autocorr.,50.79,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_Hantush,Durbin-Watson,Autocorr.,1.60,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Linear_FourParam,Shapiroo,Normality,0.59,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_FourParam,D'Agostino,Normality,595.84,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_FourParam,Runs test,Autocorr.,-10.99,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_FourParam,Ljung-Box,Autocorr.,50.83,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Linear_FourParam,Durbin-Watson,Autocorr.,1.60,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Exponential,Shapiroo,Normality,0.63,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Exponential,D'Agostino,Normality,551.00,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Exponential,Runs test,Autocorr.,-10.61,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Exponential,Ljung-Box,Autocorr.,40.10,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.80,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Gamma,Shapiroo,Normality,0.63,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Gamma,D'Agostino,Normality,578.43,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Gamma,Runs test,Autocorr.,-8.76,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Gamma,Ljung-Box,Autocorr.,42.13,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.87,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_DoubleExponential,Shapiroo,Normality,0.62,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_DoubleExponential,D'Agostino,Normality,578.71,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_DoubleExponential,Runs test,Autocorr.,-8.29,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,41.36,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.91,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Hantush,Shapiroo,Normality,0.61,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Hantush,D'Agostino,Normality,584.41,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Hantush,Runs test,Autocorr.,-12.30,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Hantush,Ljung-Box,Autocorr.,51.82,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.62,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_FourParam,Shapiroo,Normality,0.61,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_FourParam,D'Agostino,Normality,585.25,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_FourParam,Runs test,Autocorr.,-11.69,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_FourParam,Ljung-Box,Autocorr.,51.54,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Exponential,Shapiroo,Normality,0.61,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Exponential,D'Agostino,Normality,577.41,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Exponential,Runs test,Autocorr.,-10.38,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Exponential,Ljung-Box,Autocorr.,31.85,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.88,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Gamma,Shapiroo,Normality,0.60,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Gamma,D'Agostino,Normality,582.02,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Gamma,Runs test,Autocorr.,-12.77,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Gamma,Ljung-Box,Autocorr.,51.76,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.62,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_DoubleExponential,Shapiroo,Normality,0.61,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_DoubleExponential,D'Agostino,Normality,574.52,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_DoubleExponential,Runs test,Autocorr.,-10.68,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,31.06,0.01,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.88,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Hantush,Shapiroo,Normality,0.60,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Hantush,D'Agostino,Normality,586.41,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Hantush,Runs test,Autocorr.,-13.38,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Hantush,Ljung-Box,Autocorr.,50.96,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_FourParam,Shapiroo,Normality,0.61,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_FourParam,D'Agostino,Normality,583.44,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_FourParam,Runs test,Autocorr.,-11.69,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_FourParam,Ljung-Box,Autocorr.,51.53,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Exponential,Shapiroo,Normality,0.81,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Exponential,D'Agostino,Normality,346.59,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Exponential,Runs test,Autocorr.,-6.36,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Exponential,Ljung-Box,Autocorr.,47.36,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Exponential,Durbin-Watson,Autocorr.,1.74,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Gamma,Shapiroo,Normality,0.80,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Gamma,D'Agostino,Normality,361.37,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Gamma,Runs test,Autocorr.,-7.75,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Gamma,Ljung-Box,Autocorr.,42.92,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Gamma,Durbin-Watson,Autocorr.,1.71,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Direct_DoubleExponential,Shapiroo,Normality,0.81,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_DoubleExponential,D'Agostino,Normality,349.55,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_DoubleExponential,Runs test,Autocorr.,-6.52,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_DoubleExponential,Ljung-Box,Autocorr.,46.84,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.73,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Hantush,Shapiroo,Normality,0.60,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Hantush,D'Agostino,Normality,593.50,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Hantush,Runs test,Autocorr.,-11.30,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Hantush,Ljung-Box,Autocorr.,50.84,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_Hantush,Durbin-Watson,Autocorr.,1.60,nan,False
+BE0280_00_BIT_GMW_PB1_F-592_Direct_FourParam,Shapiroo,Normality,0.60,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_FourParam,D'Agostino,Normality,593.44,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_FourParam,Runs test,Autocorr.,-11.15,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_FourParam,Ljung-Box,Autocorr.,51.00,0.00,True
+BE0280_00_BIT_GMW_PB1_F-592_Direct_FourParam,Durbin-Watson,Autocorr.,1.60,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Exponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Exponential,D'Agostino,Normality,15.95,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Exponential,Runs test,Autocorr.,-2.52,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Exponential,Ljung-Box,Autocorr.,41.79,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Exponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Gamma,Shapiroo,Normality,0.98,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Gamma,D'Agostino,Normality,16.39,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Gamma,Runs test,Autocorr.,-2.37,0.02,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Gamma,Ljung-Box,Autocorr.,42.16,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Gamma,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_DoubleExponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_DoubleExponential,D'Agostino,Normality,15.94,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_DoubleExponential,Runs test,Autocorr.,-2.52,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_DoubleExponential,Ljung-Box,Autocorr.,41.79,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Hantush,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Hantush,D'Agostino,Normality,12.41,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Hantush,Runs test,Autocorr.,-3.97,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Hantush,Ljung-Box,Autocorr.,38.57,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_Hantush,Durbin-Watson,Autocorr.,1.82,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_FourParam,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_FourParam,D'Agostino,Normality,11.92,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_FourParam,Runs test,Autocorr.,-4.12,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_FourParam,Ljung-Box,Autocorr.,38.30,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Linear_FourParam,Durbin-Watson,Autocorr.,1.82,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Exponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Exponential,D'Agostino,Normality,15.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Exponential,Runs test,Autocorr.,-2.59,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Exponential,Ljung-Box,Autocorr.,39.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Gamma,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Gamma,D'Agostino,Normality,21.77,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Gamma,Runs test,Autocorr.,-3.74,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Gamma,Ljung-Box,Autocorr.,33.26,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.74,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_DoubleExponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_DoubleExponential,D'Agostino,Normality,15.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_DoubleExponential,Runs test,Autocorr.,-2.59,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,39.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Hantush,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Hantush,D'Agostino,Normality,15.63,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Hantush,Runs test,Autocorr.,-2.59,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Hantush,Ljung-Box,Autocorr.,39.69,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_FourParam,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_FourParam,D'Agostino,Normality,14.35,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_FourParam,Runs test,Autocorr.,-3.05,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_FourParam,Ljung-Box,Autocorr.,39.58,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Exponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Exponential,D'Agostino,Normality,15.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Exponential,Runs test,Autocorr.,-2.59,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Exponential,Ljung-Box,Autocorr.,39.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Gamma,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Gamma,D'Agostino,Normality,14.33,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Gamma,Runs test,Autocorr.,-3.05,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Gamma,Ljung-Box,Autocorr.,39.50,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_DoubleExponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_DoubleExponential,D'Agostino,Normality,15.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_DoubleExponential,Runs test,Autocorr.,-2.59,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,39.67,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Hantush,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Hantush,D'Agostino,Normality,22.59,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Hantush,Runs test,Autocorr.,-3.74,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Hantush,Ljung-Box,Autocorr.,33.65,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.74,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_FourParam,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_FourParam,D'Agostino,Normality,14.41,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_FourParam,Runs test,Autocorr.,-2.90,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_FourParam,Ljung-Box,Autocorr.,40.14,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Exponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Exponential,D'Agostino,Normality,15.49,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Exponential,Runs test,Autocorr.,-2.67,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Exponential,Ljung-Box,Autocorr.,41.36,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Exponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Gamma,Shapiroo,Normality,0.98,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Gamma,D'Agostino,Normality,16.09,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Gamma,Runs test,Autocorr.,-2.52,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Gamma,Ljung-Box,Autocorr.,41.87,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Gamma,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_DoubleExponential,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_DoubleExponential,D'Agostino,Normality,15.49,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_DoubleExponential,Runs test,Autocorr.,-2.67,0.01,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_DoubleExponential,Ljung-Box,Autocorr.,41.37,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Hantush,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Hantush,D'Agostino,Normality,12.78,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Hantush,Runs test,Autocorr.,-3.51,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Hantush,Ljung-Box,Autocorr.,38.90,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_Hantush,Durbin-Watson,Autocorr.,1.82,nan,False
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_FourParam,Shapiroo,Normality,0.99,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_FourParam,D'Agostino,Normality,12.75,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_FourParam,Runs test,Autocorr.,-3.66,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_FourParam,Ljung-Box,Autocorr.,38.93,0.00,True
+BE0280_00_BUKR_GMW_PB1_F-350_Direct_FourParam,Durbin-Watson,Autocorr.,1.82,nan,False
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Exponential,Shapiroo,Normality,0.66,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Exponential,D'Agostino,Normality,616.96,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Exponential,Runs test,Autocorr.,-9.76,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Exponential,Stoffer-Toloi,Autocorr.,81.44,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Gamma,Shapiroo,Normality,0.68,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Gamma,D'Agostino,Normality,618.01,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Gamma,Runs test,Autocorr.,-10.04,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Gamma,Stoffer-Toloi,Autocorr.,68.57,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_DoubleExponential,Shapiroo,Normality,0.67,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_DoubleExponential,D'Agostino,Normality,632.13,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_DoubleExponential,Runs test,Autocorr.,-11.48,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_DoubleExponential,Stoffer-Toloi,Autocorr.,76.97,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Hantush,Shapiroo,Normality,0.57,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Hantush,D'Agostino,Normality,721.90,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Hantush,Runs test,Autocorr.,-15.93,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_Hantush,Stoffer-Toloi,Autocorr.,100.38,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_FourParam,Shapiroo,Normality,0.57,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_FourParam,D'Agostino,Normality,722.02,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_FourParam,Runs test,Autocorr.,-15.93,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Linear_FourParam,Stoffer-Toloi,Autocorr.,100.73,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Exponential,Shapiroo,Normality,0.59,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Exponential,D'Agostino,Normality,701.17,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Exponential,Runs test,Autocorr.,-10.33,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Exponential,Stoffer-Toloi,Autocorr.,59.73,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Gamma,Shapiroo,Normality,0.58,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Gamma,D'Agostino,Normality,706.30,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Gamma,Runs test,Autocorr.,-10.26,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Gamma,Stoffer-Toloi,Autocorr.,56.13,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_DoubleExponential,Shapiroo,Normality,0.56,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_DoubleExponential,D'Agostino,Normality,746.74,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_DoubleExponential,Runs test,Autocorr.,-12.41,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_DoubleExponential,Stoffer-Toloi,Autocorr.,38.99,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Hantush,Shapiroo,Normality,0.53,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Hantush,D'Agostino,Normality,777.26,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Hantush,Runs test,Autocorr.,-11.34,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_Hantush,Stoffer-Toloi,Autocorr.,55.95,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_FourParam,Shapiroo,Normality,0.55,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_FourParam,D'Agostino,Normality,728.42,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_FourParam,Runs test,Autocorr.,-15.93,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_FlexModel_FourParam,Stoffer-Toloi,Autocorr.,99.77,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Exponential,Shapiroo,Normality,0.57,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Exponential,D'Agostino,Normality,692.85,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Exponential,Runs test,Autocorr.,-9.40,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Exponential,Stoffer-Toloi,Autocorr.,68.52,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Gamma,Shapiroo,Normality,0.56,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Gamma,D'Agostino,Normality,725.12,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Gamma,Runs test,Autocorr.,-16.57,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Gamma,Stoffer-Toloi,Autocorr.,99.59,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_DoubleExponential,Shapiroo,Normality,0.51,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_DoubleExponential,D'Agostino,Normality,761.64,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_DoubleExponential,Runs test,Autocorr.,-12.13,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_DoubleExponential,Stoffer-Toloi,Autocorr.,52.06,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Hantush,Shapiroo,Normality,0.52,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Hantush,D'Agostino,Normality,742.77,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Hantush,Runs test,Autocorr.,-10.40,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_Hantush,Stoffer-Toloi,Autocorr.,57.85,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_FourParam,Shapiroo,Normality,0.55,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_FourParam,D'Agostino,Normality,727.15,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_FourParam,Runs test,Autocorr.,-16.22,0.00,True
+BE0280_00_INST_B_GMW_PB1_F-461_Berendrecht_FourParam,Stoffer-Toloi,Autocorr.,99.89,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Exponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Exponential,D'Agostino,Normality,39.81,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Exponential,Runs test,Autocorr.,-5.76,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Exponential,Ljung-Box,Autocorr.,78.74,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Exponential,Durbin-Watson,Autocorr.,1.62,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Gamma,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Gamma,D'Agostino,Normality,41.50,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Gamma,Runs test,Autocorr.,-5.89,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Gamma,Ljung-Box,Autocorr.,86.67,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Gamma,Durbin-Watson,Autocorr.,1.60,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_DoubleExponential,D'Agostino,Normality,42.36,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_DoubleExponential,Runs test,Autocorr.,-5.36,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_DoubleExponential,Ljung-Box,Autocorr.,79.32,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Hantush,D'Agostino,Normality,48.47,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Hantush,Runs test,Autocorr.,-7.36,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Hantush,Ljung-Box,Autocorr.,104.02,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_Hantush,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_FourParam,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_FourParam,D'Agostino,Normality,49.75,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_FourParam,Runs test,Autocorr.,-6.96,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_FourParam,Ljung-Box,Autocorr.,105.56,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Linear_FourParam,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Exponential,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Exponential,D'Agostino,Normality,54.30,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Exponential,Runs test,Autocorr.,-7.89,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Exponential,Ljung-Box,Autocorr.,105.17,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Gamma,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Gamma,D'Agostino,Normality,56.30,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Gamma,Runs test,Autocorr.,-7.62,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Gamma,Ljung-Box,Autocorr.,105.30,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_DoubleExponential,D'Agostino,Normality,50.02,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_DoubleExponential,Runs test,Autocorr.,-7.62,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,105.13,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Hantush,D'Agostino,Normality,47.95,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Hantush,Runs test,Autocorr.,-7.49,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Hantush,Ljung-Box,Autocorr.,104.21,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_FourParam,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_FourParam,D'Agostino,Normality,61.40,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_FourParam,Runs test,Autocorr.,-6.69,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_FourParam,Ljung-Box,Autocorr.,82.10,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.58,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Exponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Exponential,D'Agostino,Normality,50.02,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Exponential,Runs test,Autocorr.,-7.62,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Exponential,Ljung-Box,Autocorr.,105.13,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Gamma,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Gamma,D'Agostino,Normality,50.02,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Gamma,Runs test,Autocorr.,-7.62,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Gamma,Ljung-Box,Autocorr.,105.13,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_DoubleExponential,D'Agostino,Normality,50.02,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_DoubleExponential,Runs test,Autocorr.,-7.62,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,105.13,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Hantush,D'Agostino,Normality,50.71,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Hantush,Runs test,Autocorr.,-7.76,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Hantush,Ljung-Box,Autocorr.,105.26,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_FourParam,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_FourParam,D'Agostino,Normality,50.02,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_FourParam,Runs test,Autocorr.,-7.62,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_FourParam,Ljung-Box,Autocorr.,105.13,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-1177_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.51,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Exponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Exponential,D'Agostino,Normality,38.26,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Exponential,Runs test,Autocorr.,-3.39,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Exponential,Ljung-Box,Autocorr.,75.92,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Exponential,Durbin-Watson,Autocorr.,1.67,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Gamma,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Gamma,D'Agostino,Normality,44.00,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Gamma,Runs test,Autocorr.,-3.79,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Gamma,Ljung-Box,Autocorr.,75.83,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Gamma,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_DoubleExponential,D'Agostino,Normality,43.80,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_DoubleExponential,Runs test,Autocorr.,-3.66,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_DoubleExponential,Ljung-Box,Autocorr.,73.17,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.63,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Hantush,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Hantush,D'Agostino,Normality,71.99,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Hantush,Runs test,Autocorr.,-5.26,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Hantush,Ljung-Box,Autocorr.,80.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_Hantush,Durbin-Watson,Autocorr.,1.57,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_FourParam,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_FourParam,D'Agostino,Normality,72.36,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_FourParam,Runs test,Autocorr.,-5.26,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_FourParam,Ljung-Box,Autocorr.,81.11,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Linear_FourParam,Durbin-Watson,Autocorr.,1.57,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Exponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Exponential,D'Agostino,Normality,57.49,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Exponential,Runs test,Autocorr.,-5.79,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Exponential,Ljung-Box,Autocorr.,80.92,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.56,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Gamma,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Gamma,D'Agostino,Normality,71.01,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Gamma,Runs test,Autocorr.,-5.52,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Gamma,Ljung-Box,Autocorr.,82.43,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.57,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_DoubleExponential,D'Agostino,Normality,57.46,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_DoubleExponential,Runs test,Autocorr.,-5.79,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,80.92,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.56,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Hantush,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Hantush,D'Agostino,Normality,64.05,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Hantush,Runs test,Autocorr.,-6.19,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Hantush,Ljung-Box,Autocorr.,80.41,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.58,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_FourParam,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_FourParam,D'Agostino,Normality,63.49,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_FourParam,Runs test,Autocorr.,-5.66,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_FourParam,Ljung-Box,Autocorr.,81.52,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.56,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Exponential,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Exponential,D'Agostino,Normality,65.29,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Exponential,Runs test,Autocorr.,-5.39,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Exponential,Ljung-Box,Autocorr.,84.85,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Gamma,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Gamma,D'Agostino,Normality,58.42,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Gamma,Runs test,Autocorr.,-4.59,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Gamma,Ljung-Box,Autocorr.,98.18,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.66,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_DoubleExponential,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_DoubleExponential,D'Agostino,Normality,65.22,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_DoubleExponential,Runs test,Autocorr.,-5.39,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,84.76,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Hantush,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Hantush,D'Agostino,Normality,62.42,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Hantush,Runs test,Autocorr.,-5.66,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Hantush,Ljung-Box,Autocorr.,81.69,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.57,nan,False
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_FourParam,Shapiroo,Normality,0.97,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_FourParam,D'Agostino,Normality,62.89,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_FourParam,Runs test,Autocorr.,-5.66,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_FourParam,Ljung-Box,Autocorr.,81.53,0.00,True
+BE0341_40_BIRK_GMW_PB1_F-497_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.57,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Exponential,Shapiroo,Normality,0.81,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Exponential,D'Agostino,Normality,350.81,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Exponential,Runs test,Autocorr.,-6.02,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Exponential,Ljung-Box,Autocorr.,32.36,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Exponential,Durbin-Watson,Autocorr.,1.72,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Gamma,Shapiroo,Normality,0.80,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Gamma,D'Agostino,Normality,376.13,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Gamma,Runs test,Autocorr.,-6.10,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Gamma,Ljung-Box,Autocorr.,28.52,0.01,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Gamma,Durbin-Watson,Autocorr.,1.73,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Linear_DoubleExponential,Shapiroo,Normality,0.81,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_DoubleExponential,D'Agostino,Normality,355.09,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_DoubleExponential,Runs test,Autocorr.,-6.18,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_DoubleExponential,Ljung-Box,Autocorr.,32.45,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.71,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Hantush,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Hantush,D'Agostino,Normality,595.40,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Hantush,Runs test,Autocorr.,-10.42,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Hantush,Ljung-Box,Autocorr.,65.54,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_Hantush,Durbin-Watson,Autocorr.,1.44,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Linear_FourParam,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_FourParam,D'Agostino,Normality,596.07,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_FourParam,Runs test,Autocorr.,-10.04,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_FourParam,Ljung-Box,Autocorr.,65.82,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Linear_FourParam,Durbin-Watson,Autocorr.,1.44,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Exponential,Shapiroo,Normality,0.65,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Exponential,D'Agostino,Normality,594.00,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Exponential,Runs test,Autocorr.,-7.10,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Exponential,Ljung-Box,Autocorr.,17.43,0.23,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.83,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Gamma,Shapiroo,Normality,0.65,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Gamma,D'Agostino,Normality,603.64,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Gamma,Runs test,Autocorr.,-8.72,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Gamma,Ljung-Box,Autocorr.,14.90,0.38,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.84,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_DoubleExponential,Shapiroo,Normality,0.67,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_DoubleExponential,D'Agostino,Normality,585.65,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_DoubleExponential,Runs test,Autocorr.,-9.42,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,17.12,0.25,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.79,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Hantush,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Hantush,D'Agostino,Normality,594.02,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Hantush,Runs test,Autocorr.,-9.34,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Hantush,Ljung-Box,Autocorr.,65.50,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.44,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_FourParam,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_FourParam,D'Agostino,Normality,594.09,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_FourParam,Runs test,Autocorr.,-9.42,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_FourParam,Ljung-Box,Autocorr.,65.59,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.44,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Exponential,Shapiroo,Normality,0.66,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Exponential,D'Agostino,Normality,589.07,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Exponential,Runs test,Autocorr.,-7.41,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Exponential,Ljung-Box,Autocorr.,17.52,0.23,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.80,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Gamma,Shapiroo,Normality,0.64,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Gamma,D'Agostino,Normality,599.92,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Gamma,Runs test,Autocorr.,-9.50,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Gamma,Ljung-Box,Autocorr.,17.64,0.22,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.82,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_DoubleExponential,Shapiroo,Normality,0.65,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_DoubleExponential,D'Agostino,Normality,597.17,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_DoubleExponential,Runs test,Autocorr.,-6.33,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,16.54,0.28,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.81,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Hantush,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Hantush,D'Agostino,Normality,593.16,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Hantush,Runs test,Autocorr.,-9.42,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Hantush,Ljung-Box,Autocorr.,65.18,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.45,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_FourParam,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_FourParam,D'Agostino,Normality,591.50,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_FourParam,Runs test,Autocorr.,-9.65,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_FourParam,Ljung-Box,Autocorr.,65.28,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.45,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Exponential,Shapiroo,Normality,0.82,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Exponential,D'Agostino,Normality,361.29,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Exponential,Runs test,Autocorr.,-8.03,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Exponential,Ljung-Box,Autocorr.,38.16,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Exponential,Durbin-Watson,Autocorr.,1.66,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Gamma,Shapiroo,Normality,0.82,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Gamma,D'Agostino,Normality,393.44,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Gamma,Runs test,Autocorr.,-9.27,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Gamma,Ljung-Box,Autocorr.,34.17,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Gamma,Durbin-Watson,Autocorr.,1.65,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Direct_DoubleExponential,Shapiroo,Normality,0.82,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_DoubleExponential,D'Agostino,Normality,360.16,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_DoubleExponential,Runs test,Autocorr.,-8.34,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_DoubleExponential,Ljung-Box,Autocorr.,38.17,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.66,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Hantush,Shapiroo,Normality,0.82,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Hantush,D'Agostino,Normality,411.92,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Hantush,Runs test,Autocorr.,-8.80,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Hantush,Ljung-Box,Autocorr.,40.75,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_Hantush,Durbin-Watson,Autocorr.,1.61,nan,False
+BE0341_40_BIT_GMW_PB1_F-616_Direct_FourParam,Shapiroo,Normality,0.62,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_FourParam,D'Agostino,Normality,593.15,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_FourParam,Runs test,Autocorr.,-10.50,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_FourParam,Ljung-Box,Autocorr.,65.48,0.00,True
+BE0341_40_BIT_GMW_PB1_F-616_Direct_FourParam,Durbin-Watson,Autocorr.,1.44,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Exponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Exponential,D'Agostino,Normality,57.45,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Exponential,Runs test,Autocorr.,-7.10,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Exponential,Ljung-Box,Autocorr.,73.16,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Exponential,Durbin-Watson,Autocorr.,1.39,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Gamma,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Gamma,D'Agostino,Normality,76.00,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Gamma,Runs test,Autocorr.,-7.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Gamma,Ljung-Box,Autocorr.,76.33,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Gamma,Durbin-Watson,Autocorr.,1.42,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_DoubleExponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_DoubleExponential,D'Agostino,Normality,57.44,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_DoubleExponential,Runs test,Autocorr.,-7.10,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_DoubleExponential,Ljung-Box,Autocorr.,73.09,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.39,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Hantush,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Hantush,D'Agostino,Normality,90.66,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Hantush,Runs test,Autocorr.,-8.65,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Hantush,Ljung-Box,Autocorr.,129.03,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_Hantush,Durbin-Watson,Autocorr.,1.23,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_FourParam,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_FourParam,D'Agostino,Normality,89.35,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_FourParam,Runs test,Autocorr.,-8.34,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_FourParam,Ljung-Box,Autocorr.,133.45,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Linear_FourParam,Durbin-Watson,Autocorr.,1.23,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Exponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Exponential,D'Agostino,Normality,63.28,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Exponential,Runs test,Autocorr.,-6.49,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Exponential,Ljung-Box,Autocorr.,75.21,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.43,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Gamma,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Gamma,D'Agostino,Normality,63.81,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Gamma,Runs test,Autocorr.,-6.33,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Gamma,Ljung-Box,Autocorr.,72.77,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.44,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_DoubleExponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_DoubleExponential,D'Agostino,Normality,62.02,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_DoubleExponential,Runs test,Autocorr.,-6.64,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,75.40,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.45,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Hantush,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Hantush,D'Agostino,Normality,81.88,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Hantush,Runs test,Autocorr.,-8.65,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Hantush,Ljung-Box,Autocorr.,131.79,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.23,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_FourParam,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_FourParam,D'Agostino,Normality,81.76,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_FourParam,Runs test,Autocorr.,-8.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_FourParam,Ljung-Box,Autocorr.,139.06,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.21,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Exponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Exponential,D'Agostino,Normality,64.39,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Exponential,Runs test,Autocorr.,-7.18,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Exponential,Ljung-Box,Autocorr.,80.07,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.42,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Gamma,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Gamma,D'Agostino,Normality,62.57,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Gamma,Runs test,Autocorr.,-6.33,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Gamma,Ljung-Box,Autocorr.,76.59,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.42,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_DoubleExponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_DoubleExponential,D'Agostino,Normality,62.93,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_DoubleExponential,Runs test,Autocorr.,-6.64,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,81.19,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.42,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Hantush,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Hantush,D'Agostino,Normality,79.64,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Hantush,Runs test,Autocorr.,-8.65,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Hantush,Ljung-Box,Autocorr.,137.08,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.21,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_FourParam,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_FourParam,D'Agostino,Normality,90.48,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_FourParam,Runs test,Autocorr.,-8.80,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_FourParam,Ljung-Box,Autocorr.,124.60,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.25,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Exponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Exponential,D'Agostino,Normality,58.39,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Exponential,Runs test,Autocorr.,-7.18,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Exponential,Ljung-Box,Autocorr.,81.85,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Exponential,Durbin-Watson,Autocorr.,1.36,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Gamma,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Gamma,D'Agostino,Normality,72.84,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Gamma,Runs test,Autocorr.,-7.88,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Gamma,Ljung-Box,Autocorr.,80.49,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Gamma,Durbin-Watson,Autocorr.,1.38,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_DoubleExponential,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_DoubleExponential,D'Agostino,Normality,58.40,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_DoubleExponential,Runs test,Autocorr.,-7.18,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_DoubleExponential,Ljung-Box,Autocorr.,81.83,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.36,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Hantush,Shapiroo,Normality,0.96,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Hantush,D'Agostino,Normality,61.73,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Hantush,Runs test,Autocorr.,-8.26,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Hantush,Ljung-Box,Autocorr.,94.87,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_Hantush,Durbin-Watson,Autocorr.,1.33,nan,False
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_FourParam,Shapiroo,Normality,0.95,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_FourParam,D'Agostino,Normality,85.76,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_FourParam,Runs test,Autocorr.,-8.49,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_FourParam,Ljung-Box,Autocorr.,140.26,0.00,True
+BE0341_40_INST_B_GMW_PB1_F-599_Direct_FourParam,Durbin-Watson,Autocorr.,1.21,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Exponential,Shapiroo,Normality,0.82,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Exponential,D'Agostino,Normality,148.47,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Exponential,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Exponential,Ljung-Box,Autocorr.,21.71,0.08,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Exponential,Durbin-Watson,Autocorr.,2.30,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Gamma,Shapiroo,Normality,0.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Gamma,D'Agostino,Normality,147.17,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Gamma,Runs test,Autocorr.,-2.98,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Gamma,Ljung-Box,Autocorr.,20.13,0.13,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Gamma,Durbin-Watson,Autocorr.,2.24,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_DoubleExponential,Shapiroo,Normality,0.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_DoubleExponential,D'Agostino,Normality,144.12,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_DoubleExponential,Runs test,Autocorr.,-3.71,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_DoubleExponential,Ljung-Box,Autocorr.,20.20,0.12,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_DoubleExponential,Durbin-Watson,Autocorr.,2.26,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Hantush,Shapiroo,Normality,0.77,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Hantush,D'Agostino,Normality,179.81,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Hantush,Runs test,Autocorr.,-4.69,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Hantush,Ljung-Box,Autocorr.,17.64,0.22,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_Hantush,Durbin-Watson,Autocorr.,2.27,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_FourParam,Shapiroo,Normality,0.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_FourParam,D'Agostino,Normality,147.40,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_FourParam,Runs test,Autocorr.,-2.98,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Linear_FourParam,Ljung-Box,Autocorr.,20.22,0.12,False
+BE115_00_BIKR_GMW_PB1_F-334_Linear_FourParam,Durbin-Watson,Autocorr.,2.25,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Exponential,Shapiroo,Normality,0.78,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Exponential,D'Agostino,Normality,188.71,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Exponential,Runs test,Autocorr.,-4.44,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Exponential,Ljung-Box,Autocorr.,15.83,0.32,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Exponential,Durbin-Watson,Autocorr.,2.21,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Gamma,Shapiroo,Normality,0.78,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Gamma,D'Agostino,Normality,184.03,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Gamma,Runs test,Autocorr.,-4.44,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Gamma,Ljung-Box,Autocorr.,15.16,0.37,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Gamma,Durbin-Watson,Autocorr.,2.22,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_DoubleExponential,Shapiroo,Normality,0.78,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_DoubleExponential,D'Agostino,Normality,188.69,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_DoubleExponential,Runs test,Autocorr.,-4.44,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,15.83,0.32,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,2.21,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Hantush,Shapiroo,Normality,0.77,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Hantush,D'Agostino,Normality,182.88,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Hantush,Runs test,Autocorr.,-4.44,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Hantush,Ljung-Box,Autocorr.,15.15,0.37,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_Hantush,Durbin-Watson,Autocorr.,2.26,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_FourParam,Shapiroo,Normality,0.77,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_FourParam,D'Agostino,Normality,181.11,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_FourParam,Runs test,Autocorr.,-5.42,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_FourParam,Ljung-Box,Autocorr.,14.74,0.40,False
+BE115_00_BIKR_GMW_PB1_F-334_FlexModel_FourParam,Durbin-Watson,Autocorr.,2.24,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Exponential,Shapiroo,Normality,0.78,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Exponential,D'Agostino,Normality,183.98,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Exponential,Runs test,Autocorr.,-5.29,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Exponential,Ljung-Box,Autocorr.,17.11,0.25,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Exponential,Durbin-Watson,Autocorr.,2.25,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Gamma,Shapiroo,Normality,0.78,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Gamma,D'Agostino,Normality,185.68,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Gamma,Runs test,Autocorr.,-3.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Gamma,Ljung-Box,Autocorr.,16.25,0.30,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Gamma,Durbin-Watson,Autocorr.,2.23,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_DoubleExponential,Shapiroo,Normality,0.78,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_DoubleExponential,D'Agostino,Normality,185.05,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_DoubleExponential,Runs test,Autocorr.,-4.08,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,16.10,0.31,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,2.23,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Hantush,Shapiroo,Normality,0.76,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Hantush,D'Agostino,Normality,187.99,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Hantush,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Hantush,Ljung-Box,Autocorr.,18.01,0.21,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_Hantush,Durbin-Watson,Autocorr.,2.27,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_FourParam,Shapiroo,Normality,0.75,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_FourParam,D'Agostino,Normality,198.68,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_FourParam,Runs test,Autocorr.,-3.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_FourParam,Ljung-Box,Autocorr.,14.37,0.42,False
+BE115_00_BIKR_GMW_PB1_F-334_Berendrecht_FourParam,Durbin-Watson,Autocorr.,2.25,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Exponential,Shapiroo,Normality,0.82,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Exponential,D'Agostino,Normality,147.68,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Exponential,Runs test,Autocorr.,-3.96,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Exponential,Ljung-Box,Autocorr.,20.84,0.11,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Exponential,Durbin-Watson,Autocorr.,2.29,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Gamma,Shapiroo,Normality,0.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Gamma,D'Agostino,Normality,151.41,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Gamma,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Gamma,Ljung-Box,Autocorr.,19.61,0.14,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Gamma,Durbin-Watson,Autocorr.,2.21,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_DoubleExponential,Shapiroo,Normality,0.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_DoubleExponential,D'Agostino,Normality,153.91,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_DoubleExponential,Runs test,Autocorr.,-3.71,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_DoubleExponential,Ljung-Box,Autocorr.,18.30,0.19,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_DoubleExponential,Durbin-Watson,Autocorr.,2.17,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Hantush,Shapiroo,Normality,0.77,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Hantush,D'Agostino,Normality,178.67,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Hantush,Runs test,Autocorr.,-3.22,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Hantush,Ljung-Box,Autocorr.,17.56,0.23,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_Hantush,Durbin-Watson,Autocorr.,2.28,nan,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_FourParam,Shapiroo,Normality,0.83,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_FourParam,D'Agostino,Normality,150.87,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_FourParam,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB1_F-334_Direct_FourParam,Ljung-Box,Autocorr.,19.67,0.14,False
+BE115_00_BIKR_GMW_PB1_F-334_Direct_FourParam,Durbin-Watson,Autocorr.,2.21,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Exponential,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Exponential,D'Agostino,Normality,11.99,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Exponential,Runs test,Autocorr.,-3.23,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Exponential,Ljung-Box,Autocorr.,23.59,0.05,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Exponential,Durbin-Watson,Autocorr.,1.72,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Gamma,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Gamma,D'Agostino,Normality,25.29,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Gamma,Runs test,Autocorr.,-2.25,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Gamma,Ljung-Box,Autocorr.,19.64,0.14,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Gamma,Durbin-Watson,Autocorr.,1.84,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_DoubleExponential,D'Agostino,Normality,19.54,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_DoubleExponential,Runs test,Autocorr.,-2.37,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_DoubleExponential,Ljung-Box,Autocorr.,18.92,0.17,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.82,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Hantush,D'Agostino,Normality,7.68,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Hantush,Runs test,Autocorr.,-3.83,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Hantush,Ljung-Box,Autocorr.,24.47,0.04,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_Hantush,Durbin-Watson,Autocorr.,1.76,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_FourParam,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_FourParam,D'Agostino,Normality,25.59,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_FourParam,Runs test,Autocorr.,-2.74,0.01,True
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_FourParam,Ljung-Box,Autocorr.,20.44,0.12,False
+BE115_00_BIKR_GMW_PB2_F-1354_Linear_FourParam,Durbin-Watson,Autocorr.,1.85,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Exponential,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Exponential,D'Agostino,Normality,7.98,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Exponential,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Exponential,Ljung-Box,Autocorr.,23.06,0.06,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.72,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Gamma,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Gamma,D'Agostino,Normality,7.42,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Gamma,Runs test,Autocorr.,-3.59,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Gamma,Ljung-Box,Autocorr.,23.57,0.05,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.73,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_DoubleExponential,D'Agostino,Normality,8.01,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_DoubleExponential,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,23.07,0.06,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.72,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Hantush,D'Agostino,Normality,8.07,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Hantush,Runs test,Autocorr.,-3.35,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Hantush,Ljung-Box,Autocorr.,24.86,0.04,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.75,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_FourParam,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_FourParam,D'Agostino,Normality,7.43,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_FourParam,Runs test,Autocorr.,-3.59,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_FourParam,Ljung-Box,Autocorr.,23.55,0.05,False
+BE115_00_BIKR_GMW_PB2_F-1354_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.73,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Exponential,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Exponential,D'Agostino,Normality,14.13,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Exponential,Runs test,Autocorr.,-3.71,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Exponential,Ljung-Box,Autocorr.,25.22,0.03,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.78,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Gamma,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Gamma,D'Agostino,Normality,15.64,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Gamma,Runs test,Autocorr.,-3.59,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Gamma,Ljung-Box,Autocorr.,27.15,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.81,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_DoubleExponential,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_DoubleExponential,D'Agostino,Normality,9.26,0.01,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_DoubleExponential,Runs test,Autocorr.,-3.83,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,26.59,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.70,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Hantush,D'Agostino,Normality,15.49,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Hantush,Runs test,Autocorr.,-3.10,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Hantush,Ljung-Box,Autocorr.,27.56,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.82,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_FourParam,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_FourParam,D'Agostino,Normality,14.30,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_FourParam,Runs test,Autocorr.,-3.83,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_FourParam,Ljung-Box,Autocorr.,27.56,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.82,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Exponential,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Exponential,D'Agostino,Normality,22.51,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Exponential,Runs test,Autocorr.,-1.89,0.06,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Exponential,Ljung-Box,Autocorr.,26.16,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Exponential,Durbin-Watson,Autocorr.,1.95,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Gamma,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Gamma,D'Agostino,Normality,24.65,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Gamma,Runs test,Autocorr.,-2.25,0.02,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Gamma,Ljung-Box,Autocorr.,19.92,0.13,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Gamma,Durbin-Watson,Autocorr.,1.85,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_DoubleExponential,Shapiroo,Normality,0.97,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_DoubleExponential,D'Agostino,Normality,22.66,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_DoubleExponential,Runs test,Autocorr.,-1.52,0.13,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_DoubleExponential,Ljung-Box,Autocorr.,20.41,0.12,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.85,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Hantush,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Hantush,D'Agostino,Normality,11.79,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Hantush,Runs test,Autocorr.,-3.47,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Hantush,Ljung-Box,Autocorr.,22.05,0.08,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_Hantush,Durbin-Watson,Autocorr.,1.75,nan,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_FourParam,Shapiroo,Normality,0.98,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_FourParam,D'Agostino,Normality,11.44,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_FourParam,Runs test,Autocorr.,-3.71,0.00,True
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_FourParam,Ljung-Box,Autocorr.,22.45,0.07,False
+BE115_00_BIKR_GMW_PB2_F-1354_Direct_FourParam,Durbin-Watson,Autocorr.,1.75,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Exponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Exponential,D'Agostino,Normality,45.50,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Exponential,Runs test,Autocorr.,-1.94,0.05,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Exponential,Ljung-Box,Autocorr.,18.86,0.17,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Exponential,Durbin-Watson,Autocorr.,1.93,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Gamma,Shapiroo,Normality,0.90,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Gamma,D'Agostino,Normality,56.07,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Gamma,Runs test,Autocorr.,-0.65,0.52,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Gamma,Ljung-Box,Autocorr.,17.59,0.23,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Gamma,Durbin-Watson,Autocorr.,1.98,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_DoubleExponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_DoubleExponential,D'Agostino,Normality,45.54,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_DoubleExponential,Runs test,Autocorr.,-1.94,0.05,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_DoubleExponential,Ljung-Box,Autocorr.,18.87,0.17,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.93,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Hantush,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Hantush,D'Agostino,Normality,36.01,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Hantush,Runs test,Autocorr.,-3.07,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Hantush,Ljung-Box,Autocorr.,14.31,0.43,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_Hantush,Durbin-Watson,Autocorr.,1.77,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_FourParam,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_FourParam,D'Agostino,Normality,35.52,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_FourParam,Runs test,Autocorr.,-3.07,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Linear_FourParam,Ljung-Box,Autocorr.,14.19,0.44,False
+BE115_00_BUKR_GMW_PB1_F-208_Linear_FourParam,Durbin-Watson,Autocorr.,1.77,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Exponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Exponential,D'Agostino,Normality,51.57,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Exponential,Runs test,Autocorr.,-0.97,0.33,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Exponential,Ljung-Box,Autocorr.,14.16,0.44,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.92,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Gamma,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Gamma,D'Agostino,Normality,54.20,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Gamma,Runs test,Autocorr.,-1.29,0.20,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Gamma,Ljung-Box,Autocorr.,15.34,0.36,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.95,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_DoubleExponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_DoubleExponential,D'Agostino,Normality,51.77,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_DoubleExponential,Runs test,Autocorr.,-1.29,0.20,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,15.35,0.35,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.92,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Hantush,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Hantush,D'Agostino,Normality,36.93,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Hantush,Runs test,Autocorr.,-3.07,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Hantush,Ljung-Box,Autocorr.,13.85,0.46,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.78,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_FourParam,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_FourParam,D'Agostino,Normality,35.95,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_FourParam,Runs test,Autocorr.,-3.07,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_FourParam,Ljung-Box,Autocorr.,14.72,0.40,False
+BE115_00_BUKR_GMW_PB1_F-208_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.77,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Exponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Exponential,D'Agostino,Normality,51.98,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Exponential,Runs test,Autocorr.,-0.97,0.33,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Exponential,Ljung-Box,Autocorr.,17.66,0.22,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.92,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Gamma,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Gamma,D'Agostino,Normality,51.98,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Gamma,Runs test,Autocorr.,-0.97,0.33,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Gamma,Ljung-Box,Autocorr.,17.66,0.22,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.92,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_DoubleExponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_DoubleExponential,D'Agostino,Normality,52.06,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_DoubleExponential,Runs test,Autocorr.,-1.62,0.11,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,17.04,0.25,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.91,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Hantush,Shapiroo,Normality,0.92,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Hantush,D'Agostino,Normality,35.37,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Hantush,Runs test,Autocorr.,-3.07,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Hantush,Ljung-Box,Autocorr.,14.04,0.45,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.77,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_FourParam,Shapiroo,Normality,0.92,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_FourParam,D'Agostino,Normality,36.71,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_FourParam,Runs test,Autocorr.,-2.75,0.01,True
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_FourParam,Ljung-Box,Autocorr.,14.52,0.41,False
+BE115_00_BUKR_GMW_PB1_F-208_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.78,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Exponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Exponential,D'Agostino,Normality,40.76,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Exponential,Runs test,Autocorr.,-2.59,0.01,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Exponential,Ljung-Box,Autocorr.,17.65,0.22,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Exponential,Durbin-Watson,Autocorr.,1.79,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Gamma,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Gamma,D'Agostino,Normality,52.74,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Gamma,Runs test,Autocorr.,-0.97,0.33,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Gamma,Ljung-Box,Autocorr.,17.90,0.21,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Gamma,Durbin-Watson,Autocorr.,1.99,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_DoubleExponential,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_DoubleExponential,D'Agostino,Normality,43.08,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_DoubleExponential,Runs test,Autocorr.,-1.94,0.05,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_DoubleExponential,Ljung-Box,Autocorr.,18.26,0.20,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_DoubleExponential,Durbin-Watson,Autocorr.,1.89,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Hantush,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Hantush,D'Agostino,Normality,35.95,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Hantush,Runs test,Autocorr.,-3.40,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Hantush,Ljung-Box,Autocorr.,14.26,0.43,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_Hantush,Durbin-Watson,Autocorr.,1.77,nan,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_FourParam,Shapiroo,Normality,0.91,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_FourParam,D'Agostino,Normality,35.82,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_FourParam,Runs test,Autocorr.,-3.40,0.00,True
+BE115_00_BUKR_GMW_PB1_F-208_Direct_FourParam,Ljung-Box,Autocorr.,14.24,0.43,False
+BE115_00_BUKR_GMW_PB1_F-208_Direct_FourParam,Durbin-Watson,Autocorr.,1.77,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Exponential,Shapiroo,Normality,0.83,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Exponential,D'Agostino,Normality,478.57,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Exponential,Runs test,Autocorr.,-8.16,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Exponential,Ljung-Box,Autocorr.,39.24,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Exponential,Durbin-Watson,Autocorr.,1.83,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Gamma,Shapiroo,Normality,0.83,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Gamma,D'Agostino,Normality,444.66,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Gamma,Runs test,Autocorr.,-10.02,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Gamma,Ljung-Box,Autocorr.,40.36,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Gamma,Durbin-Watson,Autocorr.,1.78,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Linear_DoubleExponential,Shapiroo,Normality,0.83,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_DoubleExponential,D'Agostino,Normality,476.58,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_DoubleExponential,Runs test,Autocorr.,-8.02,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_DoubleExponential,Ljung-Box,Autocorr.,39.45,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_DoubleExponential,Durbin-Watson,Autocorr.,1.84,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Hantush,Shapiroo,Normality,0.71,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Hantush,D'Agostino,Normality,660.83,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Hantush,Runs test,Autocorr.,-13.95,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Hantush,Ljung-Box,Autocorr.,115.13,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_Hantush,Durbin-Watson,Autocorr.,1.42,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Linear_FourParam,Shapiroo,Normality,0.71,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_FourParam,D'Agostino,Normality,661.29,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_FourParam,Runs test,Autocorr.,-13.02,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_FourParam,Ljung-Box,Autocorr.,115.78,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Linear_FourParam,Durbin-Watson,Autocorr.,1.42,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Exponential,Shapiroo,Normality,0.75,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Exponential,D'Agostino,Normality,582.29,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Exponential,Runs test,Autocorr.,-8.69,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Exponential,Ljung-Box,Autocorr.,18.55,0.18,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Exponential,Durbin-Watson,Autocorr.,1.91,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Gamma,Shapiroo,Normality,0.75,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Gamma,D'Agostino,Normality,586.46,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Gamma,Runs test,Autocorr.,-8.82,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Gamma,Ljung-Box,Autocorr.,21.13,0.10,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Gamma,Durbin-Watson,Autocorr.,1.89,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_DoubleExponential,Shapiroo,Normality,0.75,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_DoubleExponential,D'Agostino,Normality,569.11,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_DoubleExponential,Runs test,Autocorr.,-9.62,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_DoubleExponential,Ljung-Box,Autocorr.,25.33,0.03,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_DoubleExponential,Durbin-Watson,Autocorr.,1.89,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Hantush,Shapiroo,Normality,0.71,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Hantush,D'Agostino,Normality,652.00,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Hantush,Runs test,Autocorr.,-13.55,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Hantush,Ljung-Box,Autocorr.,111.59,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_Hantush,Durbin-Watson,Autocorr.,1.43,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_FourParam,Shapiroo,Normality,0.72,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_FourParam,D'Agostino,Normality,645.21,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_FourParam,Runs test,Autocorr.,-13.35,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_FourParam,Ljung-Box,Autocorr.,113.22,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_FlexModel_FourParam,Durbin-Watson,Autocorr.,1.43,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Exponential,Shapiroo,Normality,0.76,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Exponential,D'Agostino,Normality,559.95,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Exponential,Runs test,Autocorr.,-9.95,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Exponential,Ljung-Box,Autocorr.,29.81,0.01,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Exponential,Durbin-Watson,Autocorr.,1.86,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Gamma,Shapiroo,Normality,0.76,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Gamma,D'Agostino,Normality,569.50,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Gamma,Runs test,Autocorr.,-9.82,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Gamma,Ljung-Box,Autocorr.,30.37,0.01,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Gamma,Durbin-Watson,Autocorr.,1.83,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_DoubleExponential,Shapiroo,Normality,0.74,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_DoubleExponential,D'Agostino,Normality,578.47,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_DoubleExponential,Runs test,Autocorr.,-9.42,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_DoubleExponential,Ljung-Box,Autocorr.,27.41,0.02,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_DoubleExponential,Durbin-Watson,Autocorr.,1.89,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Hantush,Shapiroo,Normality,0.71,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Hantush,D'Agostino,Normality,651.53,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Hantush,Runs test,Autocorr.,-13.02,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Hantush,Ljung-Box,Autocorr.,111.47,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_Hantush,Durbin-Watson,Autocorr.,1.43,nan,False
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_FourParam,Shapiroo,Normality,0.71,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_FourParam,D'Agostino,Normality,649.83,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_FourParam,Runs test,Autocorr.,-13.48,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_FourParam,Ljung-Box,Autocorr.,114.65,0.00,True
+BE115_00_INST_B_GMW_PB1_F-495_Berendrecht_FourParam,Durbin-Watson,Autocorr.,1.42,nan,False

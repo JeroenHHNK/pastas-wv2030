@@ -46,7 +46,7 @@ from app_UI.config import DEFAULT_START_DATE, DEFAULT_END_DATE
 from app_UI.utils import fetch_knmi_prec_evap
 
 def render():
-    st.header("Instellen Meetreeksen")
+    st.header("Bekijken Meetreeksen")
 
     # --- KNMI inputs -----------------------
     station    = st.number_input("KNMI Station Number", min_value=200, max_value=400, value=249)
