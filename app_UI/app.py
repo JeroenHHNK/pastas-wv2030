@@ -8,14 +8,14 @@ st.set_page_config(page_title="Pastas WV2030", layout="wide")
 st.sidebar.title("Navigation")
 choice = st.sidebar.radio("", [
     "Meetreeksen",
-    "Kalibratie",
+    "Model Bouwen",
     "Model Vergelijkingen",
     "Terugkeertijden en voorspellingen"
 ])
 
 if choice == "Meetreeksen":
     render_precipitation()
-elif choice == "Kalibratie":
+elif choice == "Model Bouwen":
     render_kalibratie()
 elif choice == "Model Vergelijkingen":
     render_model_vergelijkingen()
